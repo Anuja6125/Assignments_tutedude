@@ -1,0 +1,40 @@
+/* p{
+    selectortype{
+        property : propertyvalue
+    }
+}
+
+Element Selectors
+p{
+    color : red;
+    background-color: black;
+}
+
+ID Selectors
+#New{
+    color : blue    
+}
+
+Class Selectors
+.cs{
+    color : rgb(108, 118, 49)
+}
+
+.highlighter{
+    background-color : palevioletred
+}
+
+#pid1 #pid2{
+    color : green
+}
+ */
+
+/* universal Selector */
+/* *{
+    background-color: bisque;
+} */
+
+/* Descendant Selector */
+#ds #sd1{
+    color: purple;
+}
