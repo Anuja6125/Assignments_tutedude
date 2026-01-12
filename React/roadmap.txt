@@ -1,0 +1,1 @@
+React is useful to maintain the consistency in react 
